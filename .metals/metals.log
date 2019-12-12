@@ -1,0 +1,11 @@
+INFO  time: initialize in 0.26s
+WARN  no build tool detected in workspace '/Users/mariacordero/Desktop/Galaga_AI'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/mariacordero/Desktop/PL_HW_3.scala
+WARN  no build target: /Users/mariacordero/Desktop/scalaTutorial.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.28s
+WARN  no build tool detected in workspace '/Users/mariacordero/Desktop/Galaga_AI'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/mariacordero/Desktop/PL_HW_3.scala
+WARN  no build target: /Users/mariacordero/Desktop/scalaTutorial.scala
+WARN  no build target: /Users/mariacordero/Desktop/scalaTutorial.scala
+INFO  shutting down Metals
